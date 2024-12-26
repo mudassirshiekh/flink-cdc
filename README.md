@@ -33,6 +33,7 @@ full database synchronization, sharding table synchronization, schema evolution 
 
 
 ### Getting Started
+## By Mudassir Alam
 
 1. Prepare a [Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/try-flink/local_installation/#starting-and-stopping-a-local-cluster) cluster and set up `FLINK_HOME` environment variable.
 2. [Download](https://github.com/apache/flink-cdc/releases) Flink CDC tar, unzip it and put jars of pipeline connector to Flink `lib` directory.
